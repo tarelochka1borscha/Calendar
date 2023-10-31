@@ -71,4 +71,4 @@ if ((selected_date.Month == 11 && selected_date.Day >= 29) || (selected_date.Mon
 ```
 ## Разработчик
 
-<https://github.com/tarelochka1borscha>(fff)
+Больше бесполезных проектов в [моем профиле](https://github.com/tarelochka1borscha):kissing_heart:
